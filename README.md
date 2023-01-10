@@ -89,12 +89,12 @@ PrivateLB：5位(スコア：8.42503)<br>
 ## できなかったこと<br>
 CVでグラフ形状を毎回確認しながら進めていましたが、どうしても大きい値がうまく予測できませんでした。<br>
 いろいろ工夫しましたが、最後まで改善することはできませんでした。<br>
+・trainデータの各年・各都市の4/1～15をtestデータとしたときの予測結果<br>
 ![新規 ビットマップ イメージ](https://user-images.githubusercontent.com/118031932/211548385-b8f5f0fd-aeb2-456e-af96-0d5554e3c0da.jpg)
 <br>
 <br>
 <br>
 # Lisence
 <br>
-trainデータの各年・各都市の4/1～15をtestデータとしたときの予測結果<br>
 This project is licensed under the MIT License, see the LICENSE file for details
 
