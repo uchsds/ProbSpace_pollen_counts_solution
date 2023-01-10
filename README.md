@@ -6,6 +6,7 @@
 [解法まとめ](#解法まとめ)<br>
 [解法詳細](#解法詳細)<br>
 [CV推移](#CV推移)<br>
+[できなかったこと](#できなかったこと)<br>
 <br>
 ## コンペ概要<br>
 コンペサイト：https://comp.probspace.com/competitions/pollen_counts<br>
@@ -84,6 +85,11 @@ PrivateLB：5位(スコア：8.42503)<br>
 <br>
 ## CV推移<br>
 ![image](https://user-images.githubusercontent.com/118031932/211542276-c2b0d4e5-0b54-4dd3-82b8-f31668f25713.png)
+<br>
+## できなかったこと<br>
+CVでグラフ形状を毎回確認しながら進めていましたが、どうしても大きい値がうまく予測できませんでした。<br>
+いろいろ工夫しましたが、最後まで改善することはできませんでした。<br>
+![新規 ビットマップ イメージ](https://user-images.githubusercontent.com/118031932/211548385-b8f5f0fd-aeb2-456e-af96-0d5554e3c0da.jpg)
 <br>
 <br>
 <br>
