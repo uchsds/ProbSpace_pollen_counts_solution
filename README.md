@@ -95,5 +95,6 @@ CVでグラフ形状を毎回確認しながら進めていましたが、どう
 <br>
 # Lisence
 <br>
+trainデータの各年・各都市の4/1～15をtestデータとしたときの予測結果<br>
 This project is licensed under the MIT License, see the LICENSE file for details
 
